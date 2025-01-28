@@ -1,0 +1,429 @@
+{
+  "basics": {
+    "name": "Хамраев Хуршидбек",
+    "label": "Senior Backend Developer",
+    "image": "/me_avatar2.png",
+    "email": "khamraev96@gmail.com",
+    "phone": "+998 88-277-50-01",
+    "url": "https://khamraev.netlify.app",
+    "summary": "Я специалист в разработке BackEnd. Основные стек технологий: Python Django, Vue.JS. В данный момент занимаюсь написанием программ на основе искусственного интеллекта. Также изучаю язык программирования GoLang.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "160130",
+      "city": "Наманган",
+      "countryCode": "UZ",
+      "region": "Узбекистан"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "khamraev",
+        "url": "https://www.linkedin.com/in/khamraevbek"
+      },
+      {
+        "network": "X",
+        "username": "runtimeruler",
+        "url": "https://t.me/runtimeruler"
+      },
+      {
+        "network": "GitHub",
+        "username": "xamrayev",
+        "url": "https://github.com/xamrayev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Synergy Hub Academy Namangan",
+      "position": "Преподаватель по ИТ",
+      "location_type": null,
+      "location": "Наманган, Узбекистан",
+      "url": "https://synergyeducation.uz/namangan",
+      "startDate": "2024-11-01",
+      "endDate": null,
+      "summary": "Преподавание предметов по программированию и программным технологиям.",
+      "highlights": false,
+      "skills": [
+        "Python",
+        "GitHub",
+        "Docker",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Наманганский инженерно-строительный институт",
+      "position": "Преподаватель по ИТ",
+      "location_type": null,
+      "location": "Наманган, Узбекистан",
+      "url": "https://nammqi.uz",
+      "startDate": "2022-01-20",
+      "endDate": "2024-08-26",
+      "summary": "Преподавал дисциплины по программированию и программным технологиям; работал главным специалистом в IT-инкубационном центре.",
+      "highlights": [
+        "Работал в роли Project Manager в IT-инкубационном центре, способствовал успешному выполнению IT-проектов и запуску стартапов.",
+        ""
+      ],
+      "responsibilities": [
+        "Преподавал студентам основы программирования на языке Python.",
+        "Работал в роли Project Manager в IT-инкубационном центре, способствовал успешному выполнению IT-проектов и запуску стартапов."
+      ],
+      "achievements": [
+        "Руководил 12 стартап-проектами студентов. За 2 года в рамках стартап-конкурсов студенты стали победителями 1 раз на республиканском уровне и 10 раз на уровне области."
+      ],
+      "skills": [
+        "Python",
+        "C++",
+        "Django",
+        "Flask",
+        "SQL",
+        "GitHub",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Наманганский государственный институт иностранных языков",
+      "position": "Преподаватель по ИТ",
+      "location_type": null,
+      "location": "Наманган, Узбекистан",
+      "url": "https://www.namsifl.uz/",
+      "startDate": "2022-10-13",
+      "endDate": "2023-06-27",
+      "summary": "Преподавал студентам основы компьютерной грамотности и работу с офисными программами.",
+      "highlights": false,
+      "skills": [
+        "PowerPoint",
+        "Word",
+        "Excel"
+      ]
+    },
+    {
+      "name": "InTech NamMQI",
+      "position": "Project Manager",
+      "location_type": null,
+      "location": "Наманган, Узбекистан",
+      "url": null,
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "summary": "Работал в качестве Project Manager. Реализовал 4 государственных грантовых проекта. Руководил командой из 10 разработчиков.",
+      "highlights": [
+        "Работал в роли Project Manager в IT-инкубационном центре, способствовал успешному выполнению IT-проектов и запуску стартапов.",
+        ""
+      ],
+      "responsibilities": [
+        "Разделение проекта на небольшие задания. Правильное распределение задач между участниками команды.",
+        "Участие в процессе программирования, выбор используемых технологий.",
+        "Поддержание связи с профессорами института, работающими в проекте.",
+        "Объяснение программистам требований к программе."
+      ],
+      "achievements": [
+        "Проекты по 4 государственным грантам были завершены в срок."
+      ],
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Django",
+        "Flask",
+        "Vue.JS",
+        "Quasar.JS",
+        "SQL",
+        "GitHub",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Яникурганский колледж информационных технологий",
+      "position": "Преподаватель по ИТ",
+      "location_type": null,
+      "location": "Яникурган, Наманган, Узбекистан",
+      "url": null,
+      "startDate": "2022-02-01",
+      "endDate": "2022-12-27",
+      "summary": "Преподавание предметов по программированию и программным технологиям.",
+      "highlights": false,
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Django",
+        "Flask",
+        "Vue.JS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Школа №84",
+      "position": "Учитель информатики",
+      "location_type": null,
+      "location": "Наманган, Узбекистан",
+      "url": null,
+      "startDate": "2020-09-05",
+      "endDate": "2021-10-05",
+      "summary": "Учитель информатики.",
+      "highlights": false,
+      
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Ruby"
+      ]
+    }
+  ],
+  "volunteer": false,
+  "education": [
+    {
+      "institution": "Наманганский инженерно-технологический институт",
+      "url": "https://nammti.uz",
+      "area": "Инженер - химик",
+      "studyType": "Бакалавр",
+      "startDate": "2016-09-01",
+      "endDate": "2020-05-01",
+      "score": "4.8",
+      "courses": null
+    },
+    {
+      "institution": "Наманганский инженерно-строительный институт",
+      "url": "https://www.nammmqi.uz",
+      "area": "Инженер - программист",
+      "studyType": "Магистр",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-01",
+      "score": "5",
+      "courses": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google IT Automation with Python",
+      "date": "2024-03-09",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/verify/professional-cert/NLUF3VVGTLBJ"
+    },
+    {
+      "name": "AWS Fundamentals",
+      "date": "2024-03-05",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/verify/specialization/378Y89R4XMJ5"
+    }
+  ],
+  "skills": [
+    
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bulma",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Qt application"
+      ]
+    },
+    {
+      "name": "GoLang",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Intermediate",
+      "keywords": [
+        "Server",
+        "REST"
+      ]
+    },
+   
+    
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Узбекский",
+      "fluency": "Родной"
+    },
+    {
+      "language": "Русский",
+      "fluency": "Свободно"
+    },
+    {
+      "language": "English",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Технология",
+      "keywords": [
+        "AI",
+        "AR",
+        "VR",
+        "OS"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Хуршидбек Хамраев",
+      "reference": "Ссылка…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Портфолио",
+      "isActive": false,
+      "description": "Веб-сайт персонального портфолио для демонстрации моих проектов и навыков.",
+      "highlights": [
+        "Создан с использованием Astro и Tailwind CSS"
+      ],
+      "url": "https://khamraev.netlify.app",
+      "github": "https://github.com/xamrayev/my_portfolio"
+    },
+    {
+      "name": "Дипломная работа",
+      "isActive": true,
+      "description": "3D-модель Солнечной системы.",
+      "highlights": [
+        "Приложение создано с использованием технологий Three.js и WebGL.",
+        "Все объекты смоделированы на основе реальных астрономических размеров.",
+        "На рендере представлены Солнце, 7 планет и их спутники."
+      ],
+      "url": "https://xamrayev.netlify.app"
+    },
+    {
+      "name": "Образовательная платформа",
+      "isActive": true,
+      "description": "Национальная образовательная платформа по подготовке населения к землетрясениям.",
+      "highlights": [
+        "Приложение создано с использованием технологий Vue.js и Django.",
+        "Аутентификация пользователей и операции CRUD (создание, чтение, обновление, удаление).",
+        "Использована технология REST API, обмен данными осуществляется с помощью Axios."
+      ],
+      "url": "https://zilzilaplatforma.fvvfmi.uz/",
+      "github": false
+    },
+    {
+      "name": "Электронная карта населенных пунктов Узбекистана",
+      "isActive": true,
+      "description": "Электронная карта населенных пунктов Узбекистана с цифровой разбивкой по сейсмической устойчивости и повторяемости сейсмических воздействий.",
+      "highlights": [
+        "Приложение создано с использованием технологий Leaflet.js и JavaScript.",
+        "Данные дополнены из базы данных USGS."
+      ],
+      "url": "https://zilzila-map.netlify.app/"
+    },
+    {
+      "name": "Цифровой национальный программный комплекс",
+      "isActive": true,
+      "description": "Цифровой национальный программный комплекс для расчета подземных сооружений и инженерных сетей на основе нормативного документа «Строительство в сейсмически активных зонах».",
+      "highlights": [
+        "Приложение создано с использованием технологий Quasar.js и Python."
+      ],
+      "url": "https://qmqhisob.netlify.app/#/"
+    }
+  ]
+}
