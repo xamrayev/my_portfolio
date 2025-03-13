@@ -3,10 +3,10 @@
     "name": "Хамраев Хуршидбек",
     "label": "Senior Backend Developer",
     "image": "/me_avatar2.png",
-    "email": "khamraev96@gmail.com",
+    "email": "khamraevbek96@gmail.com",
     "phone": "+998 88-277-50-01",
-    "url": "https://khamraev.netlify.app",
-    "summary": "Я специалист в разработке BackEnd. Основные стек технологий: Python Django, Vue.JS. В данный момент занимаюсь написанием программ на основе искусственного интеллекта. Также изучаю язык программирования GoLang.",
+    "url": "https://xamrayev.netlify.app",
+    "summary": "Я BackEnd-разработчик с опытом работы в Python (Django) и Vue.js. Специализируюсь на создании программ, основанных на искусственном интеллекте. В поиске новых технологических решений и активно изучаю GoLang для расширения своих возможностей.",
     "theme": "default",
     "location": {
       "address": "",
@@ -24,7 +24,7 @@
       {
         "network": "X",
         "username": "runtimeruler",
-        "url": "https://t.me/runtimeruler"
+        "url": "https://t.me/seniork8s"
       },
       {
         "network": "GitHub",
@@ -182,7 +182,7 @@
     },
     {
       "institution": "Наманганский инженерно-строительный институт",
-      "url": "https://www.nammmqi.uz",
+      "url": "https://www.nammqi.uz",
       "area": "Инженер - программист",
       "studyType": "Магистр",
       "startDate": "2020-09-01",
@@ -380,7 +380,7 @@
       "highlights": [
         "Создан с использованием Astro и Tailwind CSS"
       ],
-      "url": "https://khamraev.netlify.app",
+      "url": "https://xamrayev.netlify.app",
       "github": "https://github.com/xamrayev/my_portfolio"
     },
     {
@@ -392,7 +392,7 @@
         "Все объекты смоделированы на основе реальных астрономических размеров.",
         "На рендере представлены Солнце, 7 планет и их спутники."
       ],
-      "url": "https://xamrayev.netlify.app"
+      "url": "https://xamraev.netlify.app"
     },
     {
       "name": "Образовательная платформа",
